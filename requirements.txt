@@ -2,6 +2,10 @@ streamlit
 google-generativeai
 PyPDF2
 langchain
+langchain-core
+langchain-text-splitters
+langchain-huggingface
+langchain-google-generativeai
 sentence-transformers
 faiss-cpu
 huggingface-hub
