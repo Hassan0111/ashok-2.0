@@ -5,7 +5,7 @@ langchain
 langchain-core
 langchain-text-splitters
 langchain-huggingface
-langchain-google-generativeai
+langchain-google-genai
 sentence-transformers
 faiss-cpu
 huggingface-hub
