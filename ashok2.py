@@ -5,11 +5,13 @@ import os
 import re
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
-from langchain.vectorstores import FAISS
+from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
 import tempfile
 import warnings
 warnings.filterwarnings('ignore')
+
+
 
 # Page configuration
 st.set_page_config(
