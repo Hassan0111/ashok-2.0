@@ -3,8 +3,8 @@ import google.generativeai as genai
 from PyPDF2 import PdfReader
 import os
 import re
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.embeddings import HuggingFaceEmbeddings
+from langchain_text_splitters import RecursiveCharacterTextSplitter
+from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 from langchain.vectorstores import FAISS
 from langchain.schema import Document
 import tempfile
