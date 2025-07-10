@@ -15,15 +15,8 @@ An intelligent chatbot that helps you solve problems using uploaded PDF books an
 
 ## 🚀 Live Demo
 
-[Your Streamlit App URL will go here after deployment]
+[https://ashokai.streamlit.app/]
 
-## 📸 Screenshots
-
-### Main Interface
-![Main Interface](https://via.placeholder.com/800x400/2E86AB/FFFFFF?text=Ashok+2.0+Main+Interface)
-
-### Chat Example
-![Chat Example](https://via.placeholder.com/800x400/A23B72/FFFFFF?text=Chat+with+Book+References)
 
 ## 🛠️ Installation
 
@@ -236,4 +229,4 @@ If you encounter issues:
 
 ---
 
-Made with ❤️ by [Your Name] | Powered by Gemini AI & Streamlit
+Made with ❤️ by [Hassan jalil] | Powered by Gemini AI & Streamlit
