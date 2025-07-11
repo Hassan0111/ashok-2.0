@@ -13,6 +13,13 @@ An intelligent chatbot that helps you solve problems using uploaded PDF books an
 - 💬 **Chat History**: Maintains conversation context throughout the session
 - 🎯 **Problem-Solving Focus**: Specialized for analytical and strategic thinking
 
+
+colorFrom: blue
+colorTo: red
+sdk: docker
+app_port: 7860
+
+
 ## 🚀 Live Demo
 
 [https://ashokai.streamlit.app/]
